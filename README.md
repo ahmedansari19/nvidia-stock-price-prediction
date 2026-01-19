@@ -2,7 +2,7 @@
 
 A portfolio-style time-series project that trains a **Bidirectional LSTM (BiLSTM)** model to predict **NVDA’s next-day closing price** from historical daily market data and engineered technical features.
 
-> ⚠️ **Disclaimer:** This project is for educational purposes only and is **not** financial advice.
+> **Disclaimer:** This project is for educational purposes only and is **not** financial advice.
 
 ---
 
