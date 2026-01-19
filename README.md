@@ -83,8 +83,8 @@ Interpretation: The model captures the **overall trend** but produces **smoother
 ## Plot: Predictions vs True (Test Set)
 
 This plot compares model predictions vs actual close prices over the unseen test window (~9 months).
+<img width="989" height="490" alt="lstm_predictions_vs_true" src="https://github.com/user-attachments/assets/9c886b47-4045-412a-a003-2be3b7e3ca78" />
 
-![LSTM Predictions vs True (Test Set)](images/lstm_predictions_vs_true.png)
 
 ---
 
